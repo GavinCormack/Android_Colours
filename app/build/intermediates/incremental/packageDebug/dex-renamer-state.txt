@@ -1,0 +1,7 @@
+#Sat Oct 22 13:43:26 IST 2016
+base.0=/Volumes/GAVIN_USB/Dev/Android/Android Projects/Colours/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b064573d1d98fb308d504157ce27ed5b04318682
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Volumes/GAVIN_USB/Dev/Android/Android Projects/Colours/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2df2873daeb6ce87832646bc9e2654447e4cb756/classes.dex
+base.1=/Volumes/GAVIN_USB/Dev/Android/Android Projects/Colours/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2df2873daeb6ce87832646bc9e2654447e4cb756
+file.0=/Volumes/GAVIN_USB/Dev/Android/Android Projects/Colours/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b064573d1d98fb308d504157ce27ed5b04318682/classes.dex

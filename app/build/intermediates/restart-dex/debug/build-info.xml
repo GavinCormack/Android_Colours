@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.1"
+    timestamp="42866473210694"
+    token="-8630494353128447096"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="3993" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="582" />
+    <task
+        name="verifier"
+        duration="180" />
+
+    <artifact
+        location="/Volumes/GAVIN_USB/Dev/Android/Android Projects/Colours/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="42866473210694"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Volumes/GAVIN_USB/Dev/Android/Android Projects/Colours/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

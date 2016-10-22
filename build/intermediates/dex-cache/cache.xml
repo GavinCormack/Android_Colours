@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Volumes/GAVIN_USB/Dev/Android/Android Projects/Colours/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Volumes/GAVIN_USB/Dev/Android/Android Projects/Colours/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_2b1fe857a86dbad64397fcf4930c66a391e128bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/GAVIN_USB/Dev/Android/Android Projects/Colours/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Volumes/GAVIN_USB/Dev/Android/Android Projects/Colours/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-21.0.3_4606d6b284cb0d45297d935b98574a5586605abf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/GAVIN_USB/Dev/Android/Android Projects/Colours/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Volumes/GAVIN_USB/Dev/Android/Android Projects/Colours/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-21.0.3_ee73d8ec8bedc21ca3359653fe49c3a9ae85afc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/GAVIN_USB/Dev/Android/Android Projects/Colours/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9f4badb73929b25293e32831b0b613acd10d2265">
+        <dex dex="/Volumes/GAVIN_USB/Dev/Android/Android Projects/Colours/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2df2873daeb6ce87832646bc9e2654447e4cb756/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/GAVIN_USB/Dev/Android/Android Projects/Colours/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1cc9cd4d4bcb6df4a7878b3a2f627514a3eae129">
+        <dex dex="/Volumes/GAVIN_USB/Dev/Android/Android Projects/Colours/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b064573d1d98fb308d504157ce27ed5b04318682/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Gavin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Volumes/GAVIN_USB/Dev/Android/Android Projects/Colours/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_2df0604ab3be8d5cc68f275a42875560aa0bc4ce/classes.dex" />
+    </item>
+
+</items>
